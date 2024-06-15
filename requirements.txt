@@ -1,6 +1,6 @@
 streamlit==1.18.1
 pandas==1.5.3
 folium==0.14.0
-streamlit_folium==0.8.3
+streamlit_folium==0.8.1
 geopy==2.2.0
 matplotlib==3.6.3
